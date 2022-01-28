@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ExistingParameter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e84b4763-ccaf-436b-aaaa-71c62a717410</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>af1330db-68f4-4b87-84e5-9a7b09e857e1</id>
+      <masked>false</masked>
+      <name>response</name>
+   </variable>
+</TestCaseEntity>

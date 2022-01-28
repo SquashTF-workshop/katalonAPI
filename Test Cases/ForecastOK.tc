@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ForecastOK</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bfeb48d2-9de2-4800-aadb-655b8379c308</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0d930616-7819-4ccc-a3d1-1ad36f2199d3</id>
+      <masked>false</masked>
+      <name>response</name>
+   </variable>
+</TestCaseEntity>

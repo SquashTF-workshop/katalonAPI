@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HistoryKO</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3caffba-f018-4ae1-bff5-c4640b51ea12</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>13ba011f-4bd6-4914-9c0b-c0c86da278ee</id>
+      <masked>false</masked>
+      <name>response</name>
+   </variable>
+</TestCaseEntity>

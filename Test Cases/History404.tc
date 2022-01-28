@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>History404</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>266c68a6-9028-490b-a839-1040af95e83d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d6f56a3b-44db-46fc-91e6-1517e1544dca</id>
+      <masked>false</masked>
+      <name>response</name>
+   </variable>
+</TestCaseEntity>
