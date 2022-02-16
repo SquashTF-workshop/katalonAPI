@@ -6,6 +6,7 @@
    <UUID>7ac7c9dd-143f-4986-982e-dffd77ddc0c4</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/home/kung/Katalon Studio/API/API.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

@@ -15,7 +15,7 @@
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>http://samples.openweathermap.org/data/2.5/history/city?id=2885679&amp;type=hour&amp;appid=b1b15e88fa797225412429c1c50c122a1</restUrl>
+   <restUrl>https://samples.openweathermap.org/data/2.5/history/city?id=2885679&amp;type=hour&amp;appid=b1b15e88fa797225412429c1c50c122a1</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>

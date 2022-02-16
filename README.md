@@ -11,11 +11,14 @@ Everything (TestSuiteCollection)
   |
   |-Parameter/ExistingParameter (TestCase)
 |
-|-NoParam (TestSuite)
-  |
-  |-AirPollIncorrectLocator (TestCase)
+|-NoParamOK (TestSuite)
   |
   |-ForecastOK (TestCase)
+  |
+|
+|-NoParamKO (TestSuite)
+  |
+  |-AirPollIncorrectLocator (TestCase)
   |
   |-History404 (TestCase)
   |

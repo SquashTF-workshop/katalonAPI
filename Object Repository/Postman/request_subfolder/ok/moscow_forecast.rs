@@ -15,7 +15,7 @@
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>http://samples.openweathermap.org/data/2.5/forecast/daily?id=524901&amp;lang=zh_cn&amp;appid=b1b15e88fa797225412429c1c50c122a1</restUrl>
+   <restUrl>https://samples.openweathermap.org/data/2.5/forecast/daily?id=524901&amp;lang=zh_cn&amp;appid=b1b15e88fa797225412429c1c50c122a1</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
